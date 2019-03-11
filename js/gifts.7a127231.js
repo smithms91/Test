@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["gifts"],{b9e6:function(s,t,e){"use strict";e.r(t);var n=function(){var s=this,t=s.$createElement,e=s._self._c||t;return e("div",{staticClass:"gifts"},[e("Posts")],1)},i=[],o=e("7c2a"),a={name:"gifts",components:{Posts:o["a"]}},c=a,l=e("2877"),u=Object(l["a"])(c,n,i,!1,null,null,null);u.options.__file="Gifts.vue";t["default"]=u.exports}}]);
+//# sourceMappingURL=gifts.7a127231.js.map

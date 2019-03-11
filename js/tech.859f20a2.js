@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["tech"],{c844:function(e,t,c){"use strict";c.r(t);var n=function(){var e=this,t=e.$createElement,c=e._self._c||t;return c("div",{staticClass:"tech"},[c("Posts")],1)},s=[],a=(c("cadf"),c("551c"),c("097d"),c("7c2a")),o={name:"tech",components:{Posts:a["a"]}},l=o,i=c("2877"),u=Object(i["a"])(l,n,s,!1,null,null,null);u.options.__file="Tech.vue";t["default"]=u.exports}}]);
+//# sourceMappingURL=tech.859f20a2.js.map
